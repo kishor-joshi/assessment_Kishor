@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45341" started-at="2019-09-26T14:21:30Z" finished-at="2019-09-26T14:22:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45341" started-at="2019-09-26T14:21:30Z" finished-at="2019-09-26T14:22:15Z">
+      <class name="com.atmecs.scripts.ValidateFooter">
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.atmecs.scripts.ValidateFooter@31ef45e3]" name="browser" is-config="true" duration-ms="19465" started-at="2019-09-26T14:21:30Z" finished-at="2019-09-26T14:21:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="footerValidation()[pri:0, instance:com.atmecs.scripts.ValidateFooter@31ef45e3]" name="footerValidation" duration-ms="25820" started-at="2019-09-26T14:21:49Z" finished-at="2019-09-26T14:22:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerValidation -->
+      </class> <!-- com.atmecs.scripts.ValidateFooter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
